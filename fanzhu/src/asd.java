@@ -1,4 +1,4 @@
 
 public class asd {
-	private String name="asdsadasdas";
+	private String name="asdsadasdasasda";
 }
