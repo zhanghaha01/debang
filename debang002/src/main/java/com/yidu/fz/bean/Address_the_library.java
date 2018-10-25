@@ -6,7 +6,7 @@ package com.yidu.fz.bean;
  *
  */
 public class Address_the_library {
-	private String province;
+	private String province;//dsadasd
 	private String city;
 	private String district;
 	private String address_coding;
