@@ -2,7 +2,7 @@ package com.yidu.fz.bean;
 
 /**
  * 
- * @author 范柱
+ * @author fanzhu范柱
  * 后端用户信息
  * 2018年10月23日
  *
