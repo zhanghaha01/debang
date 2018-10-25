@@ -1,6 +1,5 @@
 package com.yidu.fz.bean;
 
-
 /**
  * 
  * @author 范柱
